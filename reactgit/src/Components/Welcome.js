@@ -4,6 +4,7 @@ const Welcome = () => {
   return (
     <>
     <h1>helllo react js</h1>
+    <h2>my name is chauhan karan</h2>
       
     </>
   )
